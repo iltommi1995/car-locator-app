@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822434064091",
+    "project_id": "car-locker",
+    "storage_bucket": "car-locker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822434064091:android:9267fff36b92cdb1798efe",
+        "android_client_info": {
+          "package_name": "com.example.carlocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822434064091-2ddu9m8smt48h8rok6ifl7ffn7a6a1be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmk-L6WucOuQqbqPkgXc_fyfSZD-W5UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822434064091-2ddu9m8smt48h8rok6ifl7ffn7a6a1be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

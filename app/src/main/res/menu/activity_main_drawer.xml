@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tutti"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_tutti" />
+        <item
+            android:id="@+id/nav_car"
+            android:icon="@drawable/ic_vehicle_car"
+            android:title="@string/menu_car" />
+        <item
+            android:id="@+id/nav_motorbike"
+            android:icon="@drawable/ic_vehicle_motorbike"
+            android:title="@string/menu_motorbike" />
+        <item
+            android:id="@+id/nav_bike"
+            android:icon="@drawable/ic_vehicle_bike"
+            android:title="@string/menu_bike" />
+    </group>
+</menu>
